@@ -1,0 +1,14 @@
+{
+  "name": "evolution/upgraded-giggle",
+  "type": "library",
+  "description": "Test",
+  "keywords": [
+    "test",
+    "testing"
+  ],
+  "homepage": "https://github.com/evolution-lab/upgraded-giggle",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
